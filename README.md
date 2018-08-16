@@ -1,8 +1,8 @@
-### Student Project
+# Student Project
 
 ## React Server Side Rendering
 
-# Start
+### Start
 
 1. `npm install`
 2. `npm run dev`
